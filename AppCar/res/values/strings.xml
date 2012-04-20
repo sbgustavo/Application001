@@ -4,4 +4,16 @@
     <string name="preco_alcool">Preço Álcool:</string>
     <string name="preco_gasolina">Preço Gasolina:</string>
     <string name="calcular">Calcular</string>
+    <string name="quilometragem_atual">Quilometragem Atual</string>
+    <string name="volume_inicial_tanque">Vol. inicial do tanque (l)</string>
+    <string name="salvar">Salvar</string>
+    <string name="brand">Marca</string>
+    <string name="model">Modelo</string>
+    <string name="plate">Placa</string>
+    <string name="date">Data</string>
+    <string name="relation_fuel">Etanol X Gasolina</string>
+    <string name="new_fuel">Novo Abastecimento</string>
+    <string name="locate_gas_station">Localizar Posto Combustível</string>
+    <string name="about">Sobre</string>
+    <string name="exit">Sair</string>
 </resources>
